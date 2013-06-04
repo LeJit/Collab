@@ -1,4 +1,4 @@
 juancollab
 ==========
 
-My collaboration with Juan
+My collaboration with Juan Velez and Jit Nandi
